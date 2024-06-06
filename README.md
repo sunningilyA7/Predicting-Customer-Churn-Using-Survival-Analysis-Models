@@ -2,8 +2,6 @@
 
 Data from https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-Here's a detailed overview of survival analysis in English, including the background, purpose, and key concepts.
-
 ### 1. Overview
 #### 1.1 Background
 **What is Survival Analysis?**
